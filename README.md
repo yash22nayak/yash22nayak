@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yash22nayak
 - 👀 I’m interested in learn something new.
-- 🌱 I’m currently learning Bachelor in Computer Engineering.
-- 💞️ I’m trying to be sucessfull.
+- 😎 Ethical Hacker !!!
+- 😁 Person which greate thinking power.
 - 📫 Reach me on nayakyash2209@gmail.com
 
 <!---
