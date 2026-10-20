@@ -1,26 +1,65 @@
-# ✨ About Me
+<!--
+  Profile README — ambient purple edition
+  Animated SVG is self-contained; if GitHub disables SVG animation,
+  the artwork still has a static constellation fallback.
+-->
 
-👋 Hey there! I’m **Yash Nayak**, a **Full-Stack Engineer** who loves blending **security, automation, and creativity** to build applications that not only work — but *work smart*.  
+<p align="center">
+  <img src="assets/ambient-purple.svg" alt="Yash Nayak — backend engineering, security and automation" width="100%" />
+</p>
 
-💻 I specialize in **Laravel**, **Livewire**, **TailwindCSS**, and **MySQL**, building everything from real-time dashboards to complex enterprise platforms. My passion lies in **turning architecture into art** — whether it’s optimizing backend performance, structuring databases that scale like magic, or automating tasks so humans don’t have to.  
+<p align="center">
+  <a href="https://github.com/yash22nayak"><img src="https://img.shields.io/badge/GitHub-yash22nayak-8b5cf6?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" /></a>
+  <img src="https://img.shields.io/badge/Focus-Secure%20systems-a78bfa?style=flat-square" alt="Focus: secure systems" />
+  <img src="https://img.shields.io/badge/Mode-Always%20building-c4b5fd?style=flat-square" alt="Always building" />
+</p>
 
-🔐 With a background in **Vulnerability Assessment & Penetration Testing (VAPT)**, I care deeply about **secure coding practices** and **resilient architectures**. I’ve worked on securing web, API, and network infrastructures while ensuring performance stays top-notch — because speed means nothing without security.  
+## > whoami
 
-🚀 I’ve developed tools that make technology simpler and smarter — from **Chrome extensions** that manage team meetings in real-time 🧑‍💻 and secure Gmail communications ✉️, to **open-source Laravel/PHP packages** that plug Google reCAPTCHA across every request automatically.  
+I'm **Yash**, a backend-focused engineer who enjoys the overlap between **security, automation, and product engineering**. I like turning messy problems into useful, dependable tools — and adding a little creativity along the way.
 
-🧠 I also love building **automation workflows** — CI/CD deployments, n8n pipelines, and custom GitHub integrations that bring the “zero-click deployment” dream closer to reality. I’m obsessed with making systems that *do the work while I sleep*.  
+- 🧩 **Backend:** Laravel, PHP, APIs, database design
+- 🔐 **Security:** secure coding, web/API testing, practical application security
+- ⚙️ **Automation:** CI/CD, n8n workflows, integrations, developer tooling
+- 🧪 **Exploring:** AI-powered products, open-source tools, and smarter developer workflows
 
-🧵 On the creative side, I’ve crafted full-stack systems like:  
-- **Stock Alert & Prediction Platform** – Python-powered predictions with real-time alerts and Stripe membership integration 📈  
-- **Learning Management Platform** – Live sessions, role-based access, and Razorpay payment integration 🎓  
-- **Enterprise Store Management System** – Scalable backend with Livewire & Algolia for lightning-fast search and large-scale data handling 🛍️  
+## > currently_building
 
-⚡ **My development philosophy:** *“Build once, scale infinitely, and secure everything.”*  
+| Signal | What I'm interested in |
+| --- | --- |
+| **Secure by design** | Better defaults, safer request flows, resilient applications |
+| **Automation-first** | Removing repetitive work with workflows and integrations |
+| **Product mindset** | Small, useful tools that solve real problems |
+| **Continuous learning** | AI engineering, application security, and system design |
 
-🌱 I’m currently diving deeper into the **MERN stack**, experimenting with **AI-driven SaaS products**, and contributing to **open-source tools** that help other developers code smarter and faster.  
+## > toolkit
 
-💬 Outside of work, you’ll find me exploring creative ways to mix **design, code, and automation**, or crafting something unusual that solves a problem people didn’t even know they had. (If it saves time or reduces clicks — I’m in!)  
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827" alt="Linux" />
+</p>
 
-🌐 In short — I build **secure, scalable, and smart digital experiences** that combine **backend power**, **frontend precision**, and **a bit of developer curiosity**.  
+## > selected_work
 
-🚀 *Always learning. Always building. Always improving.*
+- **[LarAgent](https://github.com/yash22nayak/LarAgent)** — a public project in the Laravel ecosystem.
+- **[catch-domain](https://github.com/yash22nayak/catch-domain)** — a public domain-related project.
+- **[GitHub repositories →](https://github.com/yash22nayak?tab=repositories)** — explore more of my work.
+
+## > connect
+
+I'm interested in thoughtful engineering, open-source collaboration, security-minded development, and ideas that can become useful products.
+
+<p>
+  <a href="https://github.com/yash22nayak">GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/yash22nayak?tab=repositories">Projects</a>
+</p>
+
+---
+
+<p align="center"><sub>Designed with a little purple, a constellation of dots, and a lot of curiosity.</sub></p>
