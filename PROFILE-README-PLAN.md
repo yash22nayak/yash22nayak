@@ -1,28 +1,32 @@
-# GitHub Profile README — Implementation Plan
+# GitHub Profile README — Creative Redesign Plan
 
-## Goal
-Refresh @yash22nayak with an ambient purple dot/constellation identity: understated, distinctive, and aligned with backend engineering, security, and automation.
+## Concept
+**Ambient Pixel Universe × Hacker Command Center**
 
-## Existing profile audit
-- Profile repository: https://github.com/yash22nayak/yash22nayak
-- Existing README describes Laravel/PHP, Livewire, Tailwind CSS, MySQL, security/VAPT, Chrome extensions, automation, and AI/product interests.
-- Keep the technical identity, but make the first screen more visual and scan-friendly.
-- Keep private projects private; link only to public repositories.
+The profile should feel like a miniature developer operating system inside a pixel-art purple universe—not a generic developer banner, contribution graph, or row of badges.
 
-## Design decisions
-1. **Hero:** self-contained 1200×300 SVG with dark aubergine gradient, thin constellation links, glowing purple dots, and gentle SMIL pulsing.
-2. **Content:** compact whoami, interests, toolkit, selected public work, and contact links.
-3. **Palette:** near-black violet (#0b0714), deep aubergine (#130b24), purple (#8b5cf6), lavender (#c4b5fd).
-4. **Motion:** slow ambient opacity/radius changes; no cursor-tracking or JavaScript.
-5. **Compatibility:** important text remains Markdown. The SVG has a static fallback if animation is not rendered.
-6. **Privacy:** no private repository links, personal contact details, or claims about live status.
+## Visual direction
+- Custom pixel-art space scene with aubergine background and a subtle pixel grid.
+- Terminal identity panel on the left with Yash's name and engineering focus.
+- Pixel planet, orbital paths, tiny satellite, workstation and robot assistant on the right.
+- Ambient animated stars, a blinking terminal cursor and small telemetry indicator.
+- Palette: near-black violet, aubergine, purple, lavender and pale lilac highlights.
+- The design's personality comes from the scene and composition, not from more badges.
 
 ## Files
-- `README.md` — profile layout and content.
-- `assets/ambient-purple.svg` — animated constellation hero.
+- `README.md`: profile story, skills, system map, selected work and links.
+- `assets/ambient-purple.svg`: custom 1200×430 pixel-universe hero.
+- `PROFILE-README-PLAN.md`: this plan.
 
-## Apply and validate
-1. Review the branch diff and verify SVG/Markdown paths.
-2. Confirm the hero loads on GitHub; if SVG animation is stripped, keep the static image or convert the artwork to a GIF.
-3. Check both light and dark GitHub themes and narrow mobile rendering.
-4. Merge the branch when approved. GitHub profile READMEs cannot run arbitrary JavaScript, so pointer-reactive dots require a separate hosted website.
+## Technical constraints
+- GitHub README cannot execute arbitrary JavaScript; no real command execution or cursor-reactive effects.
+- GitHub may sanitize or not animate SVG SMIL. The SVG is intended to remain visually useful as a static image if animation is disabled.
+- If animation fails in the actual GitHub render, use an optimized GIF/APNG for the hero while keeping meaningful text in Markdown.
+- Check mobile cropping and SVG rendering before merging.
+
+## Validation checklist
+1. Preview the SVG directly on GitHub and inside the README.
+2. Verify animation behavior after GitHub sanitization.
+3. Check small-screen layout and alt text.
+4. Check every project link before publishing.
+5. Merge only after reviewing the feature branch diff.
