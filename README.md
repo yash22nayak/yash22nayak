@@ -19,7 +19,17 @@
 
 **Visual identity:** *Ambient Pixel Universe × Hacker Command Center* — a tiny digital world with pixel planets, an orbiting satellite, a workstation, a robot assistant, and a terminal interface. It is intentionally closer to a custom game-world / developer OS than a stock contribution graph.
 
-## > system_map\n\n```text\n[YASH.OS] ── [BACKEND SYSTEMS] ── [APPLICATION SECURITY]\n    │               │                       │\n    └──── [AUTOMATION + AI] ─────── [PRODUCT BUILDS]\n```\n\n> Explore the public repositories below to inspect the actual systems behind the interface. GitHub README content is static Markdown; the animated artwork is decorative rather than a runnable terminal.\n\n## > whoami
+## > system_map
+
+```text
+[YASH.OS] ── [BACKEND SYSTEMS] ── [APPLICATION SECURITY]
+    │               │                       │
+    └──── [AUTOMATION + AI] ─────── [PRODUCT BUILDS]
+```
+
+> Explore the public repositories below to inspect the actual systems behind the interface.
+
+## > whoami
 
 I'm **Yash Nayak**, a backend engineer with **3+ years of experience** building scalable applications, secure APIs, real-time pipelines, and data-heavy systems. My background spans Laravel engineering, application security, and AI-augmented development.
 
