@@ -1,5 +1,5 @@
 <!--
-  Profile README — ambient purple edition
+  Profile README — Ambient Pixel Universe × Hacker Command Center
   Animated SVG is self-contained; if GitHub disables SVG animation,
   the artwork still has a static constellation fallback.
 -->
@@ -14,6 +14,10 @@
   <img src="https://img.shields.io/badge/Security-20%2B%20VAPT%20audits-c4b5fd?style=flat-square" alt="20 plus VAPT audits" />
   <img src="https://img.shields.io/badge/AI-LLM%20workflows-8b5cf6?style=flat-square" alt="LLM workflows" />
 </p>
+
+## > command_center
+
+**Visual identity:** *Ambient Pixel Universe × Hacker Command Center* — a calm constellation of purple pixels surrounding a developer terminal. The goal is a living systems-console aesthetic, not a standard contribution-animation template.
 
 ## > whoami
 
