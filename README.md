@@ -5,7 +5,7 @@
 -->
 
 <p align="center">
-  <img src="assets/ambient-purple.svg" alt="Yash Nayak — backend engineering, security and automation" width="100%" />
+  <img src="assets/ambient-purple.svg" alt="Yash OS — a pixel-art purple universe, terminal and tiny workstation" width="100%" />
 </p>
 
 <p align="center">
@@ -17,9 +17,9 @@
 
 ## > command_center
 
-**Visual identity:** *Ambient Pixel Universe × Hacker Command Center* — a calm constellation of purple pixels surrounding a developer terminal. The goal is a living systems-console aesthetic, not a standard contribution-animation template.
+**Visual identity:** *Ambient Pixel Universe × Hacker Command Center* — a tiny digital world with pixel planets, an orbiting satellite, a workstation, a robot assistant, and a terminal interface. It is intentionally closer to a custom game-world / developer OS than a stock contribution graph.
 
-## > whoami
+## > system_map\n\n```text\n[YASH.OS] ── [BACKEND SYSTEMS] ── [APPLICATION SECURITY]\n    │               │                       │\n    └──── [AUTOMATION + AI] ─────── [PRODUCT BUILDS]\n```\n\n> Explore the public repositories below to inspect the actual systems behind the interface. GitHub README content is static Markdown; the animated artwork is decorative rather than a runnable terminal.\n\n## > whoami
 
 I'm **Yash Nayak**, a backend engineer with **3+ years of experience** building scalable applications, secure APIs, real-time pipelines, and data-heavy systems. My background spans Laravel engineering, application security, and AI-augmented development.
 
